@@ -4,6 +4,9 @@ DocMind is a Retrieval-Augmented Generation (RAG) application that allows users 
 
 ---
 
+## 📸 Application Preview
+
+![DocMind Demo](screenshots/docmind-demo.png)
 ## 🚀 Features
 
 * 📄 Upload and process PDF documents
